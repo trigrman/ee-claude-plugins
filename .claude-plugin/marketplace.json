@@ -14,7 +14,7 @@
       },
       "displayName": "Visual Collaboration with AI",
       "description": "Portable skills and agents for LLM-assisted, human-led visual collaboration in product management — opportunity trees, assumption maps, story maps, prototypes.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "keywords": ["product-management", "miro", "discovery", "story-mapping", "prototyping"]
     }
   ]
