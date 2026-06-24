@@ -1,0 +1,21 @@
+{
+  "name": "mitchell-ee-claude-plugins",
+  "owner": {
+    "name": "Mike Mitchell",
+    "email": "mike.mitchell@equalexperts.com"
+  },
+  "description": "Mike Mitchell's catalog of Claude Code plugins for Equal Experts.",
+  "plugins": [
+    {
+      "name": "vcw",
+      "source": {
+        "source": "github",
+        "repo": "mitchell-ee/visual-collab-workflow"
+      },
+      "displayName": "Visual Collaboration with AI",
+      "description": "Portable skills and agents for LLM-assisted, human-led visual collaboration in product management — opportunity trees, assumption maps, story maps, prototypes.",
+      "version": "0.1.0",
+      "keywords": ["product-management", "miro", "discovery", "story-mapping", "prototyping"]
+    }
+  ]
+}
