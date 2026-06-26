@@ -7,15 +7,15 @@
   "description": "Mike Mitchell's catalog of Claude Code plugins for Equal Experts.",
   "plugins": [
     {
-      "name": "vcw",
+      "name": "ee-pm",
       "source": {
         "source": "github",
         "repo": "mitchell-ee/visual-collab-workflow"
       },
-      "displayName": "Visual Collaboration with AI",
-      "description": "Portable skills and agents for LLM-assisted, human-led visual collaboration in product management — opportunity trees, assumption maps, story maps, prototypes.",
-      "version": "0.3.0",
-      "keywords": ["product-management", "miro", "discovery", "story-mapping", "prototyping"]
+      "displayName": "EE PM Workflow",
+      "description": "Portable skills and agents for AI-assisted, human-led product management across discovery and delivery — interviews, synthesis, opportunity trees, assumption maps, story maps, stories, backlog, prototyping, and workshop facilitation.",
+      "version": "0.4.3",
+      "keywords": ["product-management", "discovery", "continuous-discovery", "opportunity-solution-tree", "story-mapping", "prototyping", "miro"]
     }
   ]
 }

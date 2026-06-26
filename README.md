@@ -22,13 +22,13 @@ Then install any plugin from it:
 
 | Plugin | Description | Source |
 | --- | --- | --- |
-| `vcw` | Visual Collaboration with AI — skills and agents for LLM-assisted, human-led visual collaboration in product management (opportunity trees, assumption maps, story maps, prototypes). | [mitchell-ee/visual-collab-workflow](https://github.com/mitchell-ee/visual-collab-workflow) |
+| `ee-pm` | EE PM Workflow — skills and agents for AI-assisted, human-led product management across discovery and delivery (interviews, synthesis, opportunity trees, assumption maps, story maps, stories, backlog, prototyping, workshop facilitation). | [mitchell-ee/visual-collab-workflow](https://github.com/mitchell-ee/visual-collab-workflow) |
 
-Install `vcw`:
+Install `ee-pm`:
 
 ```
 /plugin marketplace add mitchell-ee/mitchell-ee-claude-plugins
-/plugin install vcw@mitchell-ee-claude-plugins
+/plugin install ee-pm@mitchell-ee-claude-plugins
 ```
 
 ## Adding a new plugin to the catalog
