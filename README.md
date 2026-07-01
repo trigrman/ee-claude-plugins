@@ -31,7 +31,16 @@ Install `ee-pm`:
 /plugin install ee-pm@mitchell-ee-claude-plugins
 ```
 
-## Adding a new plugin to the catalog
+## Contributing
+
+This catalog is personally curated and maintained by Mike Mitchell. It is not open to outside contributions — pull requests to add or change plugin entries will not be accepted. If you maintain a plugin you'd like considered for the catalog, feel free to open an issue, but inclusion is at the maintainer's sole discretion.
+
+---
+
+<details>
+<summary>Maintainer notes</summary>
+
+To add a new plugin to the catalog:
 
 1. Create or publish the plugin in its **own** GitHub repo (with a valid `.claude-plugin/plugin.json`).
 2. Add an entry to the `plugins` array in `.claude-plugin/marketplace.json`, pointing at that repo:
@@ -44,3 +53,5 @@ Install `ee-pm`:
    }
    ```
 3. Commit and push. Users re-run `/plugin marketplace update mitchell-ee-claude-plugins` to pick up the change.
+
+</details>
