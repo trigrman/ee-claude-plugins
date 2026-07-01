@@ -10,7 +10,7 @@
       "name": "ee-pm",
       "source": {
         "source": "github",
-        "repo": "mitchell-ee/visual-collab-workflow"
+        "repo": "mitchell-ee/ee-pm"
       },
       "displayName": "EE PM Workflow",
       "description": "Portable skills and agents for AI-assisted, human-led product management across discovery and delivery — interviews, synthesis, opportunity trees, assumption maps, story maps, stories, backlog, prototyping, and workshop facilitation.",

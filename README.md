@@ -22,7 +22,7 @@ Then install any plugin from it:
 
 | Plugin | Description | Source |
 | --- | --- | --- |
-| `ee-pm` | EE PM Workflow — skills and agents for AI-assisted, human-led product management across discovery and delivery (interviews, synthesis, opportunity trees, assumption maps, story maps, stories, backlog, prototyping, workshop facilitation). | [mitchell-ee/visual-collab-workflow](https://github.com/mitchell-ee/visual-collab-workflow) |
+| `ee-pm` | EE PM Workflow — skills and agents for AI-assisted, human-led product management across discovery and delivery (interviews, synthesis, opportunity trees, assumption maps, story maps, stories, backlog, prototyping, workshop facilitation). | [mitchell-ee/ee-pm](https://github.com/mitchell-ee/ee-pm) |
 
 Install `ee-pm`:
 
