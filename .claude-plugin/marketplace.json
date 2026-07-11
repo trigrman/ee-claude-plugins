@@ -13,9 +13,9 @@
         "repo": "mitchell-ee/ee-pm"
       },
       "displayName": "EE PM Workflow",
-      "description": "Portable skills and agents for AI-assisted, human-led product management across discovery and delivery — interviews, synthesis, opportunity trees, assumption maps, story maps, stories, backlog, prototyping, and workshop facilitation.",
+      "description": "Mike Mitchell's Equal Experts product management toolkit — skills and agents for AI-assisted, human-led product work across discovery and delivery.",
       "version": "0.4.3",
-      "keywords": ["product-management", "discovery", "continuous-discovery", "opportunity-solution-tree", "story-mapping", "prototyping", "miro"]
+      "keywords": ["product-management", "discovery", "delivery", "agile", "equal-experts"]
     }
   ]
 }
