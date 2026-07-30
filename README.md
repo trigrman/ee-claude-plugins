@@ -9,7 +9,7 @@ This repo contains **no plugin code**. It is purely a catalog: `.claude-plugin/m
 Add this marketplace once:
 
 ```
-/plugin marketplace add mitchell-ee/mitchell-ee-claude-plugins
+/plugin marketplace add mitchell-ee/claude-plugins
 ```
 
 Then install any plugin from it:
@@ -23,12 +23,20 @@ Then install any plugin from it:
 | Plugin | Description | Source |
 | --- | --- | --- |
 | `ee-pm` | Mike Mitchell's Equal Experts product management toolkit — skills and agents for AI-assisted, human-led product work across discovery and delivery (interviews, synthesis, opportunity trees, assumption maps, story maps, stories, backlog, prototyping, workshop facilitation). | [mitchell-ee/ee-pm](https://github.com/mitchell-ee/ee-pm) |
+| `ee-context-mesh` | Structure for where LLM context lives across an organization, plus the process for populating it from conversations — an AI Hub, a locked node/edge vocabulary, and skills to ingest transcripts into staged, human-gated context. | [mitchell-ee/context-mesh-claude](https://github.com/mitchell-ee/context-mesh-claude) |
 
 Install `ee-pm`:
 
 ```
-/plugin marketplace add mitchell-ee/mitchell-ee-claude-plugins
+/plugin marketplace add mitchell-ee/claude-plugins
 /plugin install ee-pm@mitchell-ee-claude-plugins
+```
+
+Install `ee-context-mesh`:
+
+```
+/plugin marketplace add mitchell-ee/claude-plugins
+/plugin install ee-context-mesh@mitchell-ee-claude-plugins
 ```
 
 ## Contributing
