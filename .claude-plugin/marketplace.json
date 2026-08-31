@@ -10,7 +10,7 @@
       "name": "ee-pm",
       "source": {
         "source": "github",
-        "repo": "mitchell-ee/ee-pm"
+        "repo": "trigrman/ee-pm"
       },
       "displayName": "EE PM Workflow",
       "description": "Mike Mitchell's Equal Experts product management toolkit — skills and agents for AI-assisted, human-led product work across discovery and delivery.",
@@ -21,7 +21,7 @@
       "name": "ee-context-mesh",
       "source": {
         "source": "github",
-        "repo": "mitchell-ee/context-mesh-claude"
+        "repo": "trigrman/context-mesh-claude"
       },
       "displayName": "EE Context Mesh",
       "description": "Structure for where LLM context lives across an organization, plus the process for populating it from conversations — an AI Hub, a locked node/edge vocabulary, and Claude skills to ingest transcripts into staged, human-gated context.",
