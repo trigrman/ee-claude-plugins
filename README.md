@@ -15,7 +15,7 @@ Add this marketplace once:
 Then install any plugin from it:
 
 ```
-/plugin install <plugin-name>@mitchell-ee-claude-plugins
+/plugin install <plugin-name>@ee-claude-plugins
 ```
 
 ## Plugins in this catalog
@@ -29,14 +29,14 @@ Install `ee-pm`:
 
 ```
 /plugin marketplace add trigrman/ee-claude-plugins
-/plugin install ee-pm@mitchell-ee-claude-plugins
+/plugin install ee-pm@ee-claude-plugins
 ```
 
 Install `ee-context-mesh`:
 
 ```
 /plugin marketplace add trigrman/ee-claude-plugins
-/plugin install ee-context-mesh@mitchell-ee-claude-plugins
+/plugin install ee-context-mesh@ee-claude-plugins
 ```
 
 ## Contributing
@@ -60,6 +60,6 @@ To add a new plugin to the catalog:
      "description": "What it does."
    }
    ```
-3. Commit and push. Users re-run `/plugin marketplace update mitchell-ee-claude-plugins` to pick up the change.
+3. Commit and push. Users re-run `/plugin marketplace update ee-claude-plugins` to pick up the change.
 
 </details>
