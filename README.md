@@ -1,4 +1,4 @@
-# mitchell-ee-claude-plugins
+# ee-claude-plugins
 
 A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces) — a catalog of plugins maintained by Mike Mitchell for Equal Experts.
 
